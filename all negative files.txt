@@ -1,0 +1,474 @@
+Organic farming is often touted as a more sustainable solution for food production, leveraging natural forms of pest control to promote eco-friendly cultivation.
+But a new study published in Science on Thursday finds that expanding organic cropland can lead to increased pesticide use in surrounding non-organic fields, offsetting some environmental benefits.
+These harmful "spillover effects" can be mitigated if organic farms are clustered together and geographically separated from conventional farms, the researchers found.
+"Despite policy pushes to increase the amount of organic agriculture, there remain key knowledge gaps regarding how organic agriculture impacts the environment," said lead author Ashley Larsen, of the University of California, Santa Barbara.
+Although organic agricultural practices generally improve environmental conditions such as soil and water quality, the trade-offs aren't very well understood.
+For example, organic fields could harbor more beneficial species that prey on insects, such birds, spiders and predatory beetles and fewer pests. Or, the lack of chemical pesticides and genetically modified seeds could mean they harbor more pests.
+To find out, Larsen and colleagues analyzed data on some 14,000 fields in Kern County, California, across seven years.
+Kern County produces high-value crops including grapes, watermelons, citrus, tomatoes, potatoes and much more, making it one of the most valuable crop producing regions in the United States.
+The team paired digitized maps of fields and the crops grown on them with records of pesticide applications and whether a field had an organic certification.
+"Surrounding organic agriculture leads to an increase in pesticide use on conventional fields, but also leads to a larger decrease on nearby organic fields," said Larsen, with the effect manifesting primarily in insecticides, which specifically target insects.
+The level of pesticides in conventional fields decreased the further away they were from organic fields.
+But the situation could be completely remedied if organic fields were grouped together, the researchers found, based on a less-detailed national level analysis they also carried out.
+"Spatially clustering organic fields and spatially separating organic and conventional fields could reduce the environmental footprint of both organic and conventional cropland," the team concluded.
+Writing in a related commentary, Erik Lichtenberg of the University of Maryland said that the authors had shown farmers' decisions about pesticide are influenced by the presence of nearby organic fields—but it's not fully clear why.
+The value of the crops, their susceptibility to pests, and farmers' personal risk tolerances likely all play roles.
+"Which mobile pests are involved, where they originate in the landscape, or how and why they move across the landscape are poorly understood," said Lichtenberg, calling for more research in this area.
+
+New research adds to the increasingly nuanced picture of organic farming and how well it can meet both our food and ecological goals. The new study, published in Science, identifies one unintended consequence of organic agriculture: it seems to lead to the increased use of insecticides on neighboring fields. 
+
+However, this uptick in chemical use can be entirely offset by grouping organic fields together at the landscape level, the researchers reveal.
+
+What grabbed their interest to begin with was an unresolved concern about the interplay between organic farms and the insect life they harbor. One of the defining features of organic farming is a gentler approach to ‘pests’, either by recognising their value as natural predators, and as pollinators; or of managing them with lower amounts of chemicals, or with chemicals that have a kinder environmental footprint. 
+
+But some say that a possible trade-off of this approach is that the abundant life on organic farms will spill over into conventional farmlands and trigger a more aggressive pest management response there. This dynamic remains little understood, but the new study sheds a bit of light on what might be going on. 
+
+Its researchers chose to delve into this issue in Kern County, California, a famously productive and diverse agricultural region specializing in everything from almonds and grapes to citrus, stone fruits, and feed crops. The region produces $7.4 billion in farm goods each year, which also involves an estimated 13 million kilograms of pesticide, making it one of the biggest pesticide-applying counties in the US. It’s also home to dozens of organic fields.
+The scientists looked at a dataset of 14,000 farm fields, each of which included information about the crop types, pesticide-use, and organic certification of individual plots. This dataset, which spanned seven years, allowed them to compare fields with limited or no pesticide use—organic fields—with the application patterns on surrounding conventional fields (‘surrounding’ being those that fall within a 2.5 kilometer radius.) The large dataset also helped them to build a simulation to answer some other questions down the line. 
+
+But first, from that huge dataset a notable pattern soon emerged. The researchers found that in cases where fields of conventional agriculture were surrounded by organic fields there was typically a small, but significant, increase in pesticide use there, driven mainly by an increase in the use of insecticides specifically. 
+
+In fact, their analysis showed that a 10% increase in surrounding organic fields corresponded with a 0.3% increase in the application of pesticides. This effect was most obvious in conventional fields that were closest to the organic ones, within a 0.5 kilometer radius. The effect dimmed the further away the conventional fields were from the organic ones. 
+
+But in organic fields surrounded by more organic plots, there was the reverse effect. Where there was a 10% increase in the acreage of organic fields, there was a parallel 3% decrease in the amount of pesticides applied on nearby organic lands. Similarly, here the effect was greatest at close range, between zero and 0.5 kilometers.
+
+Across Kern county as a whole, “because there are so many more conventional fields, we see an increase [in insecticide use] overall,” explains Ashley Larsen, the study’s lead author and an associate professor at UC Santa Barbara. 
+
+The researchers’ dataset wasn’t able to explain the reasons for these dynamics—why it is that conventional lands use more insecticide in the presence of organic fields, and why rates of use conversely drop on other organic fields. As the scientists note, there could be a range of overlapping factors at play: what crops the farmers are producing, the different management strategies they use to protect yields, and how insects move between farms. Unpicking these was beyond the study’s scope.
+
+But, the data did reveal some other useful clues, when the researchers used the information they had gathered to build a simulation. In this simulation, they were able to test how things would look if they moved plots of organic and conventional agriculture around in the landscape. What they found here was that when many organic fields were clustered together instead of being dispersed across the landscape like they currently are, and the same occurred for conventional fields, this arrangement led to reduced levels of pesticide use on both organic and conventional fields. This new arrangement seemed to mitigate the previous negative effects of organic fields on insecticide use.
+
+The researchers went a step further and ran a simulation using national data on organic and conventional fields, and found similar patterns here too. This suggests that reconfiguring our farmlands could have real and considerable benefits at even bigger scales—especially as the demand for certified organic food grows.
+
+“We may see inadvertent increases in insecticide use if organic cropland expands haphazardly within landscapes otherwise dominated by conventional cropland,” Larsen says. To avoid this fate, she suggests “it may be worth considering policies that can incentivize spatial clustering of new organic fields.”
+
+Watermelon, green beans and bell peppers are among the many common fruits and vegetables found in US supermarkets that contain potentially unsafe levels of pesticides, according to an analysis published today by Consumer Reports.
+The new report – which analyzed seven years of US Department of Agriculture data on commonly eaten fruits and vegetables – offers one of the most comprehensive evaluations to date of pesticides found in US produce. The data was based on nearly 30,000 fruit and vegetable samples, including fresh, frozen, canned and organic, collected from supermarkets by the USDA as part of routine pesticide testing.
+Consumer Reports built a huge database to analyze the data – and scored different foods to provide actionable recommendations to help consumers shop and eat with less risk.
+Consumer Reports found that pesticide residue posed a significant risk in roughly 20% of the 59 common foods examined in its research. The foods deemed high risk included conventionally grown (ie non-organic) kale, blueberries, potatoes and bell peppers. Apples, grapes, peaches, tomatoes, spinach and celery were among the items considered moderate risk.
+Organic fruits and vegetables generally had far less pesticide residue than conventionally grown foods, according to the research. But even a few organic foods posed some risk. For example, imported green beans carried a high risk and domestic potatoes a moderate one – raising questions about how these organic crops were contaminated with high-risk pesticides that are not approved for organic farming.
+Imported, conventionally grown produce also posed higher risks than US-grown foods in the study. Foods grown in Mexico such as strawberries and green beans were especially worrisome. Mexican strawberries contained oxydemeton-methyl, part of a group of pesticides called organophosphates that are neurotoxins. This category of insecticides can overstimulate the nervous system at high exposure levels and disrupt the developing nervous system in infants and children.
+A lot of these EPA tolerances aren’t consistent with the best science
+Michael Hansen, senior scientist at Consumer Reports
+For Consumer Reports to deem a fruit or vegetable high risk, only a relatively small proportion of samples had to be contaminated. The testing involved hundreds of samples for each food collected from US supermarkets over seven years. Only 4% of green bean samples tested had high-risk levels of pesticides.
+But some of the levels found on contaminated beans were alarming: one green bean sample from 2022 had levels of methamidophos that were 100 times the level Consumer Reports’ scientists consider safe. Methamidophos has been banned in the US and on green bean imports for over a decade, raising questions about why it’s still showing up in supermarket produce.
+It’s important to note that Consumer Reports scientists have stricter standards for what they consider safe than those of the Environmental Protection Agency – the US government body that sets the levels, known as tolerances. The Alliance for Food and Farming, a farming industry organization, notes that 99% of vegetables tested by the USDA meet government safety standards for pesticide residue. But many scientists – including those behind the Consumer Reports study – believe the EPA tolerances are often set far too high, putting consumers at risk.
+“A lot of these EPA tolerances aren’t consistent with the best science,” says Michael Hansen, a senior scientist at Consumer Reports. “They were set a number of years ago – and they don’t take into account situations where there are multiple pesticide residues on a single sample. The data are now available – and the computing power is now there – to more accurately assess the actual risk.”
+The strongest evidence of the dangers posed by pesticides comes from farm workers and pesticide applicators, who are exposed to much higher levels of the chemicals when they are applied to crops. On-the-job exposure to pesticides has been linked to higher risk of Parkinson’s disease, several forms of cancer, diabetes and other health problems.
+When it comes to consumers, the risks from eating foods contaminated by pesticides grow over time. For most of the population, a single serving of a contaminated fruit is unlikely to cause harm – but routine consumption of a contaminated fruit or vegetable over months or years magnifies the risk.
+Children and pregnant women are particularly vulnerable because some pesticides can be endocrine disruptors, which may interfere with hormones responsible for the development of key bodily systems, especially the reproductive system.
+Over the next year, the Guardian will be partnering with Consumer Reports to dig more deeply into the findings of this study, seeking answers as to how the US food supply became contaminated by pesticides and what we can do about it.
+Organic food's market share stagnating; Organic farming land slowly increasing
+The turnover for organic food increased significantly in the past two years, but its market share seems to be stagnating. More Dutch farmers are also going organic, but they’re embracing the shift much more slowly than the government had hoped.
+According to a biennial study by market researcher GfK, the turnover for organic products increased by 42 percent compared to 2021, NOS reports. Inflation played a big role in that, but consumers are also opting for organic food more often. Organic food still only holds 3.8 percent of the market share, however. That is only a fraction more than in 2021 and far below the government’s 15 percent goal for 2030.
+According to Michiel Wilde of the trade organization Bionext, organic food is gaining ground. Supermarkets are implementing initiatives, like Plus now only selling organic whole milk and organic onions. And there will be a major advertising campaign later this year to entice consumers to buy organic more often, he told NOS.
+“But what we need is for large parties to switch to organic,” De Wilde said. “For example, you would need NS to only use organic milk for its cappuccinos at all stations. Or if Friesland Campina would only offer a certain type of cheese organically. Canning brand Hak recently determined that all its products will be organic from 2027. That makes a difference.”
+About 9,000 football fields worth of Dutch agricultural land was organically certified in 2023, an increase of 6.6 percent compared to a year earlier, Statistics Netherlands (CBS) reported on Wednesday. The organic area now covers 80.9 thousand hectares or 4.5 percent of the total agricultural land.
+Farmers are embracing organic farming much more slowly than the Ministry of Agriculture, Nature, and Food Quality had hoped. The Ministry is aiming for 15 percent organic farming in 2030. To achieve that target, the Netherlands needs to add 26,000 hectares of organic agricultural land per year until 2030.
+Last year’s increase covered almost 12,000 hectares - 6,500 hectares from existing companies going organic and 5,400 from new organic agriculture companies. But 5,300 hectares of organic farming land were also lost to companies closing or certificates expiring.
+Why are organic fruits and vegetables expensive?
+While the cost of growing organic produce is lower in terms of chemical inputs and environmental impact, the higher price tag on organic products can be attributed to the above plethora of complex factors.
+Organic produce has gained immense popularity in recent years, with consumers increasingly valuing its health benefits and environmental sustainability. However, organic food is also beginning to be seen as a luxury that a vast majority can ill afford. At the moment, organic fruits and vegetables across the world come with a hefty price tag, despite the belief that the cost of growing organic should be lower due to the absence of pesticides and synthetic fertilisers. Thus, the move to make organic foods a mainstream part of shopping and eating habits is hampered by their higher prices.
+While the cost of growing organic food is perceived to be lower than that of growing conventional produce, as the Food and Agriculture Organization explains, production costs for organic foods tend to be typically higher because of greater labour inputs per unit of output and because economies of scale cannot be achieved with it. Here’s a look at this and other factors that contribute towards making organic prohibitively costly.
+One of the primary reasons for the higher cost of organic produce is the lower yields associated with organic farming methods. Organic agriculture prohibits the use of synthetic chemicals, such as pesticides and synthetic fertilisers, which are commonly used in conventional farming. While this prohibition aligns with the principles of sustainable and eco-friendly farming, it also results in reduced crop yields.
+On average, organic crops yield approximately 10% to 15% less than their conventionally grown counterparts. This yield difference is due to several factors:
+Pest and Disease Management: Organic farmers rely on natural methods to control pests and diseases, such as crop rotation, beneficial insects, and organic-approved pesticides. These methods are often less effective than chemical pesticides, leading to higher crop losses.
+Soil Fertility: While practices like composting and cover cropping improve soil fertility in the long run, they may not provide immediate nutrient availability to crops, leading to slower growth and lower yields.
+Weed Control: Hand weeding and mulching are labour-intensive and time-consuming methods of weeb management and can result in competition for resources, causing reduced crop yields.
+Despite these challenges, organic farmers embrace sustainable practices to promote soil health and minimise harm to the environment. While lower yields contribute to the higher cost of organic produce, it is not the primary driver behind its price premium.
+INEFFICIENCIES IN TRADITIONAL AGRICULTURAL MARKETS
+The high cost of organic produce is also significantly influenced by inefficiencies within traditional agricultural markets, particularly in countries like India, where the majority of agricultural transactions occur through mandis (wholesale markets). These markets are designed to handle large quantities of conventional produce efficiently.
+The primary issue is that mandis are ill-equipped to differentiate organic produce from conventional crops effectively. As a result, organic farmers often face challenges with selling their produce through these channels. Instead, they resort to direct sales to retailers or consumers, bypassing the mandi system altogether.
+
+HOWEVER, DIRECT SALES ARE NOT WITHOUT THEIR CHALLENGES:
+Increased Logistics Costs: Selling directly to retailers or consumers means that organic farmers have limited tonnage to transport, which drives up logistics costs on a per-unit basis. This contributes to the higher price of organic produce.
+Lack of Economies of Scale: Large mandis benefit from economies of scale, enabling efficient transportation, storage, and distribution of produce. In contrast, direct sales by small-scale organic farmers lack these advantages, further inflating costs.
+Reduced Market Access: Organic produce's limited presence in mandis restricts its availability to consumers, as it is not readily accessible alongside conventional options.
+TRANSITION CHALLENGES IN ORGANIC FARMING
+Another aspect that affects the cost of organic produce is the transition process from conventional to organic farming methods. Organic farming requires a fundamental shift in agricultural practices, which can be challenging for farmers. During the transition period, farmers often experience reduced yields and additional costs. These transition challenges include:
+Initial Yield Drops When transitioning to organic farming, farmers may experience a decline in crop yields due to the adjustment period required for the soil and ecosystem to adapt to new organic practices.
+Need for Support Farmers need guidance and support in preparing organic inputs, such as compost and natural pesticides, and managing crop-damaging pests through organic methods. Establishing a robust government extension system to assist farmers in this transition is crucial. These systems, seen in some developed countries like Denmark, are known to provide hands-on support as well as resources that have helped farmers transition to organic methods.
+LIMITED SCALE OF ORGANIC PRODUCTION
+The limited scale of organic production also contributes to their higher costs. In many regions, organic farming is practised on a smaller scale compared to conventional agriculture. This limited production scale results in higher costs across various aspects of organic farming:
+Certification Costs Organic farmers must undergo certification processes to verify their compliance with organic standards. These certification costs are spread across fewer products, increasing the cost per unit.
+Storage Costs Smaller quantities of organic produce often require specialised storage facilities, which can be costlier to operate than large-scale conventional storage options.
+Marketing Costs Marketing and promoting organic products to consumers incur higher expenses when there is limited product availability.
+The combination of these factors results in higher retail prices for organic produce, discouraging many consumers from purchasing it, and creating a cycle of low demand and erratic supply.
+LACK OF GOVERNMENT SUPPORT AND FINANCIAL INCENTIVES
+In addition, comes the state's role. Governments play a crucial role in shaping agricultural practices and prices through policies and subsidies. Unfortunately, in many regions, there is a lack of adequate government support and financial incentives for farmers transitioning to organic methods. Conventional farming benefits from subsidies on chemical fertilisers, while organic inputs lack similar support. To ease the shift to organic farming, a robust government extension system is needed to provide farmers with essential knowledge and resources.
+CERTIFICATION COMPLEXITIES AND MISTRUST
+Certification is a vital aspect of organic farming, serving as a safeguard to guarantee that products adhere to stringent organic standards and are genuinely devoid of synthetic chemicals. Nevertheless, the certification process often presents challenges for farmers, both in terms of complexity and cost, which further drives up the cost of organically produced food.
+Additionally, there is often mistrust amongst retailers and consumers regarding whether products labelled as "organic" are genuinely adhering to organic standards. Certification by a recognised authority helps alleviate this concern. Uncertified organic produce may face scepticism, leading to lower demand and, consequently, higher prices.
+CONSUMER AWARENESS AND HEALTH CONCERNS
+Consumer awareness and health concerns also play a role in the pricing of organic produce. Many consumers are unaware of the chemicals and pesticides present in conventionally grown produce. The perceived health benefits of organic food, such as reduced pesticide exposure, drive demand for organic products.
+As a result, retailers can charge higher prices for organic produce due to increased consumer willingness to pay for perceived health benefits and environmental sustainability.
+Hence, while the cost of growing organic produce is lower in terms of chemical inputs and environmental impact, the higher price tag on organic products can be attributed to the above plethora of complex factors. Making organic produce more affordable and accessible requires a comprehensive approach encompassing government support, consumer education, supply chain optimisation, and the promotion of local markets.
+The escalating demand for organic food and products underscores the need for accelerated innovation in precision farming, organic pest control methods, and efficient logistics. These advancements hold significant potential for improving productivity and cutting production costs. To foster the expansion of the organic sector, it's essential to cultivate economies of scale in organic farming, processing, and distribution, as they can serve as a formidable means to promote sustainability and usher in a transformative era for all involved.
+USDA Supports Expansion of “Organic” Hydroponically-Grown Food, Threatening Real Organic
+
+Update: This Daily News is updated to address the organic status of the company cited in the piece, Merchant’s Garden. The article now indicates that the company is certified as organic under a different name (Merchant’s Garden Agrotech) than the name used in the USDA press release.  As a result, their name did not appear in USDA’s Organic Integrity Database (OID) at the time of the original Daily News and Action of the Week posting. USDA updated OID on December 8, 2023, the same day that it received a complaint on this matter from former National Organic Standard Board chair Jim Riddle. The critical focus of the piece remains the same: It is not disclosed to consumers on food products labeled “organic” when that food or ingredients are grown hydroponically. Beyond Pesticides, as indicated in the article, views hydroponic as a conventional growing practice that does not meet the spirit and intent of the organic system, as defined in the Organic Foods Production Act. 
+
+(Beyond Pesticides, December 11, 2023) U.S. Department of Agriculture (USDA) Secretary Tom Vilsack announced on November 27, 2023 funding that appears to be supporting the expansion of “organic” hydroponic, an approach to food production that has been criticized by the vast majority of the organic community as a process that violates foundational organic principles. The funding, under USDA’s Rural Business and Value-Added Producer Grants program, is intended to assist in financing an expansion of rural businesses, including 185 projects worth nearly $196 million. Organizations representing organic producers and consumers have told the USDA’s National Organic Program that hydroponic food production, as a form of conventional chemical-intensive agriculture, does not meet the standards of soil-based food production required for USDA organic labeling. Currently, federal law does not require that hydroponically produced food be labeled, leaving consumers unable to distinguish production practices at the point of sale. 
+One of the projects highlighted in the USDA announcement states, “Merchant’s Garden LLC is a hydroponic and aquaponic farm in Tucson, Arizona. The company will use a $250,000 Value-Added Producer Grant to expand marketing and sales of prepackaged salad mixes to help them become a local supplier of organic leafy greens for southern Arizona.” However, Merchant’s Garden’s website does not make any organic claims for its produce, so advocates question why USDA is promoting this hydroponic/aquaponic producer as “organic.”
+Tell Secretary Vilsack and your Congressional representatives to ensure that USDA ceases promotion of hydroponically-grown products as “organic.”
+Beyond Pesticides has said: “Taxpayer dollars should not used to finance a hydroponic/aquaponic operation that does not comply with the Organic Foods Production Act (OFPA). If products from this operation are to be sold as “organic,” it will cause harm to producers who comply with OFPA. It will also deceive consumers who purchase organic products believing that such products are produced in healthy, fertile soil, as required by the organic law and regulations. To the extent that hydoponic operations supplant soil-based (real) organic operations, these subsidies negate the climate and biodiversity benefits of organic agriculture.”
+The Organic Foods Production Act, at 6513(b), requires that all organic crop production operations submit and follow organic plans that “shall contain provisions designed to foster soil fertility, primarily through the management of the organic content of the soil through proper tillage, crop rotation, and manuring.” The same section of OFPA goes on to state, “An organic plan shall not include any production or handling practices that are inconsistent with this chapter.”
+It is widely understood that organic farms support soil health, help sequester carbon dioxide, and avoid the use of materials like soluble nitrogen fertilizers that contribute many times as much warming potential as carbon dioxide. Beyond Pesticides advocates that USDA’s financial support should go to new and transitioning organic farms.
+By decisive vote in 2010, the USDA’s National Organic Standards Board determined that hydroponic and aquaponic operations are inconsistent with OFPA and do not qualify for organic certification. Under the law, the National Organic Program (NOP) is required to determine whether Merchant’s Garden LLC complies with section 6513(b) of the Organic Foods Production Act and whether the operation intends to sell their hydroponically-grown products as “organic.” If the operation does not comply, NOP is required to ensure that it is not certified organic.
+
+Tell Secretary Vilsack and your Congressional representatives to ensure that USDA ceases promotion of hydroponically-grown products as “organic.”
+Historically, perhaps the most important principle of organic production is the “Law of Return,” which, together with the rule “Feed the soil, not the plant” and the promotion of biodiversity, provide the ecological basis for organic production. (Sir Albert Howard. The Soil and Health: The Study of Organic Agriculture (1940), and An Agricultural Testament (1947).) Together, these three principles describe a production system that mimics natural systems. The Law of Return says that we must return to the soil what we take from the soil. Non-crop organic matter is returned directly or through composting plant materials or manures. To the extent that the cash crop removes nutrients, they must be replaced by cover crops, crop rotation, or additions of off-site materials when necessary.
+The dictum to “Feed the soil, not the plant” reinforces the fact that soil is a living superorganism that supports plant life as part of an ecological community. Soil organisms are not fed to plants in isolation to have them process nutrients for crop plants. The soil is fed to support a healthy soil ecology, which is the basis of terrestrial life.
+Finally, biological diversity is important to the health of natural ecosystems and agroecosystems. Biodiversity promotes balance, which protects farms from outbreaks of damaging insects and disease. It supports the health of the soil through the progression of the seasons and stresses associated with weather and farming. It supports our health by offering a diversity of foods.
+A 2010 National Organic Standards Board report embraces these foundational principles but also contrasts organic production and “conventional” chemical-intensive agriculture. At the time of the passage of OFPA, the organic community’s characterization of soil as alive was viewed with amusement by the “conventional” agriculture experts, who saw soil as a structure for supporting plants, while farmers poured on synthetic nutrients—and the poisons that had become necessary to protect the plants growing without the protection of their ecological community. Interestingly, organic producers at that time compared conventional agriculture to hydroponics.
+Conventional agriculture has now learned something about soil life—enough to promote some use of cover crops despite continued reliance on petrochemical nitrogen. On a parallel track, practitioners of hydroponics have learned the value of biology in their nutrient solutions. However, in both cases, the lessons have not been completely understood. This is made very clear from the hydroponics industry explanation that “bioponics” (non-sterile hydroponics) depends on biological activity.
+It is the case that bioponics relies on biological activity in the nutrient solution to break down complex molecules and make them available to the plants. It is also true that the nutrient solution in bioponics has an ecology—as all biological systems do. However, the hydroponics industry repeatedly calls this a “soil ecology,” although it is merely an artificial mimic of soil ecology and a reductionist approach to manipulating nature.
+A quote from the Omnivore’s Dilemma (2006) by Michael Pollan can provide some perspective on the importance of organic as envisioned by the early adopters of the practices and the drafters of OFPA:
+
+To reduce such a vast biological complexity to NPK [nitrogen-phosphorous-potassium] represented the scientific method at its reductionist worst. Complex qualities are reduced to simple quantities; biology gives way to chemistry. As [Sir Albert] Howard was not the first to point out, that method can only deal with one or two variables at a time. The problem is that once science has reduced a complex phenomenon to a couple of variables, however important they may be, the natural tendency is to overlook everything else, to assume that what you can measure is all there is, or at least all that really matters. When we mistake what we can know for all there is to know, a healthy appreciation of one’s ignorance in the face of a mystery like soil fertility gives way to the hubris that we can treat nature as a machine.
+The ecological system of a hydroponic nutrient system is described by the hydroponics industry to be more like a fermentation chamber—a means of processing plant nutrients—than the soil ecosystem of an organic farm. The three principles cited above are explained in further detail below:
+The Law of Return. In a soil-based system, residues are returned to the soil by tillage, composting, or mulching. In a bioponics system, the residues may be composted; the residue is not returned to the bioponic system, closing the loop. The inputs that are typically identified in bioponics include many agricultural products—animal-based compost, soy protein, molasses, bone meal, alfalfa meal, plant-based compost, hydrolyzed plant and animal protein, composted poultry manure, dairy manure, blood meal, cottonseed meal, and neem seed meal—and these are produced off-site, with no return to their production system. While most organic growers depend on some off-site inputs, most of the fertility in a soil-based system comes from practices that recycle organic matter produced on-site. The cycling of organic matter and on-site production of nutrients—as from nitrogen-fixing bacteria and microorganisms that make nutrients in native mineral soil fractions available to plants—is essential to organic production. The Law of Return is not about feeding plants but about conserving the biodiversity of the soil-plant-animal ecological community.
+Feed the soil, not the plant. The description of the bioponics system and case studies reveal how much bioponics relies on added plant nutrients. These nutrients may be made available through biological processes, but they are added to feed the plants, not the ecosystem. Here is an example of a case study of bioponic tomatoes:
+After planting the seedlings in this growing media, it is necessary to add supplemental nutrition throughout the growing cycle (approximately one year). About once per week, solid and liquid nutrients are added to the growing media. Some fertilizers can be applied through the irrigation lines because they are soluble enough and will not clog the lines. The use of soluble nitrogen fertilizers is limited because of their high costs, for instance, for plant-based amino acids. [S]odium nitrate. . .will be used as a lower cost nitrogen source. Soluble organic-compliant inorganic minerals, such as potassium and magnesium sulfate, are also added through the irrigation system.
+Biodiversity. The definition of “organic production” in the organic regulations requires the conservation of biodiversity. As stated in the National Organic Program Guidance on Natural Resources and Biodiversity Conservation (NOP 5020),
+
+The preamble to the final rule establishing the NOP explained, “[t]he use of ‘conserve’ [in the definition of organic production] establishes that the producer must initiate practices to support biodiversity and avoid, to the extent practicable, any activities that would diminish it. Compliance with the requirement to conserve biodiversity requires that a producer incorporate practices in his or her organic system plan that are beneficial to biodiversity on his or her operation.” (76 FR 80563) [Emphasis added.]
+Under this guidance, while the hydroponics industry may say it is not diminishing soil and plant biodiversity, certified organic operations must take active steps to support biodiversity. On a soil-based organic farm, many practices support—from crop rotations to interplanting to devoting space to hedgerows and other nonproductive uses. These practices are also used by organic farmers producing food in greenhouses. However, bioponics is a monocultural environment that does not support biodiversity.
+Tell Secretary Vilsack and your Congressional representatives to ensure that USDA ceases promotion of hydroponically-grown products as “organic.”
+Letter to Secretary Agriculture Tom Vilsack:
+On November 27, you announced the release of funds from the USDA Rural Business Development and Value-Added Producer Grant Programs to assist in the financing or expansion of rural businesses. In total, 185 projects worth nearly $196 million are being funded to create new and better market opportunities for agricultural producers.
+One of the projects highlighted in the USDA announcement is very troubling. The announcement states, “Merchant’s Garden LLC is a hydroponic and aquaponic farm in Tucson, Arizona. The company will use a $250,000 Value-Added Producer Grant to expand marketing and sales of prepackaged salad mixes to help them become a local supplier of organic leafy greens for southern Arizona.” However, Merchant’s Garden’s website does not make any organic claims for its produce, so it is curious that USDA is promoting this hydroponic/aquaponic producer as “organic.”
+Taxpayer dollars should not be used to assist a hydroponic/aquaponic operation that does not comply with the Organic Foods Production Act (OFPA) to sell products as organic. If products from this operation are to be sold as organic, it will cause harm to producers who comply with OFPA. It will also deceive consumers who purchase organic products believing that such products are produced in healthy, fertile soil, as required by the OFPA and regulations. To the extent that hydroponic operations supplant soil-based (real) organic operations, these subsidies negate the climate and biodiversity benefits of organic agriculture.
+The Organic Foods Production Act, at 6513(b), requires that all organic crop production operations submit and follow organic plans that, “shall contain provisions designed to foster soil fertility, primarily through the management of the organic content of the soil through proper tillage, crop rotation, and manuring.” The same section of OFPA goes on to state, “An organic plan shall not include any production or handling practices that are inconsistent with this chapter.”
+The Earth needs many more real organic farms that support soil life, help sequester carbon dioxide, and avoid the use of materials like soluble nitrogen fertilizers that contribute many times as much warming potential as carbon dioxide. USDA’s financial support should go to new and transitioning organic farms.
+
+By decisive vote in 2010, the USDA’s National Organic Standards Board determined that hydroponic and aquaponic operations are inconsistent with OFPA and do not qualify for organic certification. The National Organic Program (NOP) must use its accreditation system to determine whether Merchant’s Garden LLC’s certifier, Where Food Comes From Organic, complies with section 6513(b) of the Organic Foods Production Act. If the certification agency does not comply with OFPA, NOP should revoke their accreditation for certification of organic crops. 
+Thank you.
+Letter to U.S. Representative and Senators:
+On November 27, Secretary of Agriculture Tom Vilsack announced the release of funds from the USDA Rural Business Development and Value-Added Producer Grant Programs to assist in the financing or expansion of rural businesses. In total, 185 projects worth nearly $196 million are being funded to create new and better market opportunities for agricultural producers.
+One of the projects highlighted in the USDA announcement is very troubling. The announcement stated, “Merchant’s Garden LLC is a hydroponic and aquaponic farm in Tucson, Arizona. The company will use a $250,000 Value-Added Producer Grant to expand marketing and sales of prepackaged salad mixes to help them become a local supplier of organic leafy greens for southern Arizona.” However, Merchant’s Garden’s website does not make any organic claims for its produce, so it is curious that USDA is promoting this hydroponic/aquaponic producer as “organic.”
+Taxpayer dollars should not used to assist a hydroponic/aquaponic operation that does not comply with the Organic Foods Production Act (OFPA) to sell products as organic. If products from this operation are to be sold as organic, it will cause harm to producers who comply with OFPA. It will also deceive consumers who purchase organic products believing that such products are produced in healthy, fertile soil, as required by the OFPA and regulations. To the extent that hydroponic operations supplant soil-based (real) organic operations, these subsidies negate the climate and biodiversity benefits of organic agriculture.
+The Organic Foods Production Act, at 6513(b), requires that all organic crop production operations submit and follow organic plans that, “shall contain provisions designed to foster soil fertility, primarily through the management of the organic content of the soil through proper tillage, crop rotation, and manuring.” The same section of OFPA goes on to state, “An organic plan shall not include any production or handling practices that are inconsistent with this chapter.”
+The Earth needs many more real organic farms that support soil life, help sequester carbon dioxide, and avoid the use of materials like soluble nitrogen fertilizers that contribute many times as much warming potential as carbon dioxide. USDA’s financial support should go to new and transitioning organic farms.
+By decisive vote in 2010, the USDA’s National Organic Standards Board determined that hydroponic and aquaponic operations are inconsistent with OFPA and do not qualify for organic certification. The National Organic Program (NOP) must use its accreditation system to determine whether Merchant’s Garden LLC’s certifier, Where Food Comes From Organic, complies with section 6513(b) of the Organic Foods Production Act. If the certification agency does not comply with OFPA, NOP should revoke their accreditation for certification of organic crops. 
+Please tell Secretary Vilsack to ensure that all certifiers are consistently preventing organic certification of operations that do not comply with section 6513(b) of the Organic Foods Production Act.
+Thank you.
+The EU is “very unlikely” to meet its target of 25% organic agriculture for 2030, as it would take almost double the current rate of progress to reach the goal, according to the European Environment Agency (EEA).
+The EEA’s latest report, published on Monday (18 December), found that the bloc is not on track to meet most of the environmental targets set by the European Commission for 2023, including its ambitions for organic farming. 
+“It is very unlikely that the 2030 target will be met because of the large distance to the target,” reads the report, adding that the share of organic farming in the EU is expected to increase but “not sufficiently”. 
+The aim to have at least 25% of the EU’s agricultural land under organic farming – which produces food using natural substances and processes – is a key element of the EU’s flagship Farm to Fork Strategy. 
+However, the report found that current policy support is insufficient to reach the target and called for greater ambition to support “a fundamental transformation of food production and consumption”. 
+The EEA highlighted in its report the environmental benefits of organic farming, particularly for biodiversity, soil health, and water quality. 
+“[Organic farming] is a key policy tool to make European agriculture more sustainable,” Eric Gall, deputy director of the EU organic farming association IFOAM, told Euractiv, adding that member states should make more money available to organic farmers through the Common Agricultural Policy (CAP). 
+Originally, all this was part of the ambition of the EU’s plans: In its 2021 Organic Action Plan, the Commission set out to stimulate both demand and supply of organic products, and mobilise more financial support for organic farming through the CAP. 
+Since then, however, several of the EU executive’s promises on the “fork”, that is, consumption, side of the food chain, failed to materialise, with the sustainable food systems law one of the most notable absences from the Commission’s work programme for 2024. 
+Not doing well enough
+According to the report, organic farming in the EU has been growing steadily since 2012, going up from 5.9% of the agricultural land to 9.9% in 2021. 
+If the current rate of growth is maintained, this would lead to a 15% share of organic farming in 2030, which would fall short of the Commission’s ambitions. 
+Furthermore, to reach the 25% target by 2030, the pace of progress would have to almost double in the remaining years. 
+“The annual (…) growth rate between 2012 and 2021 was 6%. Meeting the 25% target by 2030 would require a nearly doubled annual (…) growth rate of 10.8% for the 2021 to 2030 period,” the report said. 
+Disparities between countries
+The report showed that the share of agricultural area under organic farming has increased in all EU member states – except Poland – between 2012 and 2021.
+Meanwhile, differences among countries remain high. While Austria, Estonia, and Sweden had more than 20% of their agricultural area used for organic farming in 2021, the rate in six member states was still less than 5%, with the lowest shares found in Ireland, Bulgaria, and Malta. 
+‘The world is changing too fast for us’: organic farmers on urgency of French protests
+This article is more than 3 months old
+France taken by surprise by scale and fury of grassroots demonstrations amid crisis in organic sector
+Pierre Bretagne woke at 4am to feed the cows on his organic farm near the coastal town of Pornic in western France, then did something he had never dared to before.
+He made a cardboard protest banner about the nightmare of French bureaucracy and went to cheer on a go-slow convoy of tractors warning that French farming and the rural way of life was facing collapse. Effigies of dead farmers dangled from nooses on tractor trailers as the convoy drove into the centre of the Brittany city of Rennes, beeping horns and waving banners. “Quality has a price,” read one.
+
+“We’re fed up and exasperated,” says Bretagne, 38. “I love my job – I farm organically because it’s what I believe in and it’s the right thing ethically and in terms of health. In nine years of farming, I’ve never been on a protest; I’d rather be with my animals. But things are getting so difficult – we need decent prices that reflect not just the quality of our produce but the love we put into this job and into the countryside. This is a passion, a vocation, but we don’t get the recognition for it.”
+The French government has been taken by surprise by the scale and fury of grassroots farmer demonstrations that have spread from the south-west across the whole country this week.
+Bales of hay and tractors have been used to block main highways; manure has been sprayed on public buildings and supermarkets in the south-west. Crates of tomatoes, cabbages and cauliflowers that farmers said had been cheaply imported were dumped across roads. Although the protests follow other demonstrations by European farmers in countries including Germany and Romania, the French protests have a particularly urgent and local political flavour. France, the EU’s biggest agricultural producer, has thousands of independent producers of meat, dairy, fruit and vegetables and wine, who have a reputation for staging disruptive protests.
+For several months, angry farmers had been turning street signs upside-down in villages across France in protest, while Marine Le Pen’s far-right party travelled the country to court rural voters.
+But in Paris, Emmanuel Macron’s appointment earlier this month as the new prime minister, Gabriel Attal, instead focused on issues such as law and order and introducing trials of school uniform. Now the farming protests are Attal’s first significant headache, only five months before European parliament elections where the far right in France could make gains.
+On Thursday, Breton fishers joined in; other trade union workers could follow if a social protest movement grows. After the gilets jaunes (yellow vests) citizen protest movement of 2018 and 2019, the government is so sensitive that it has directed riot police to act in moderation, rather than dismantle roadblocks. The demonstrators have many demands: including ensuring fairer prices for produce, continuing diesel tax-breaks for agricultural vehicles, an end to the extra French red tape layered on top of EU rules and immediate aid for struggling organic farmers.
+Attal told farmers in the south-west on Friday: “We must tell all French citizens, if they can, to buy French produce.” He also promised to simplify red-tape, speed up the payment of subsidies for agricultural tractor fuel and drop plans to reduce tax breaks on agricultural diesel, as well as make access to water easier for farmers.
+Polls show massive public support for the farmers’ protest – up to 90% – but farmers say that French consumers, struggling to make ends meet and bamboozled by supermarkets, do not always choose French produce in shops.
+As organic farming faces an acute crisis in France, with sales dropping sharply, Bretagne says it has taken an emotional toll. “In human terms, it’s a catastrophe,” he says of the loneliness and isolation that some farmers have faced. From a farming family, his own father died “exhausted” at 60, having been unable to adapt to the changing industry. Bretagne earned only €600–€700 (£512-£597) a month, and sold much of his organic produce – beef, free-range chicken and sunflower products – as conventional rather than organic produce because the market was so hard.
+
+“People see organic food as too expensive, but organic farmers are not getting the big margins on shop prices,” he says. “Where are those profits going? Who is lining their pockets?”
+Bretagne’s wife’s salary as a support worker for adults with disabilities kept him and their two children afloat. But for him, farming was about being present in the countryside, keeping rural communities alive. He says: “The world is changing too fast for us. We don’t know where we are.”
+The farming union, Coordination Rurale, which organised protests in Rennes on Thursday, gave its demonstrators yellow hats, an echo of the gilets jaunes.
+Natacha Guillemet, 50, from Vouvant in the Vendée, says she farmed grass-fed Parthenais cattle for high-quality “red label” beef sold in top Paris butchers’ shops. “But at the end of the month, I line up the bills on the mantlepiece and decide which ones to pay because I can’t pay all of them,” she says.
+“I’m counting stamps on envelopes, I’m counting euros. We are not in dairy, but we milk some cows to provide some milk for our children. The prices paid by intermediaries for our produce are too low and yet our costs are exploding: diesel, insurance. Consumers are getting charged a lot but we’re not seeing that deferential. There’s a lack of dignity.”
+Sometimes, she says, it felt like working in a feudal system: “It’s as if we get the crumbs … We’re being taken for fools.”
+Olivier Chemin, 54, an organic dairy farmer at Saint-Fraimbault-de-Prières in Mayenne, says: “This anger has been on slow-burn for years in France – there has been a distortion of competition, prices are low. I’ve been farming for 22 years. Organic dairy costs more to produce, yet prices are dropping.
+“The demonstrations are about the future of French farming and rural life. It’s about how we feed ourselves, the quality of our food. It’s very seriously under threat from imports that don’t respect European or French rules. If the government doesn’t act, farming will collapse.”
+Chemin says suicide rates are up among smaller farmers, some of whom earn just €500 a month. He says small-scale French farmers, who work more than 60 hours a week, spend hours each week filling out paperwork and dealing with red tape.
+Alexis, 28, a cabbage farmer from Finistère in Brittany, says that like most, he stays up late after dinner each night, filling out forms. “It’s a question of survival: you need to be able to earn from your job.”
+Mickaël, a fisher from Concarneau, joined the protests to stand up for “the rural world against the city”. He says that in France, protesting is the only way to be heard by politicians: “Sometimes you have to burn and break things to be understood.”
+As thousands of farmers protest across Europe, the organic food and farming movement has called for fair prices for both consumers and farmers who adopt greener practices.
+
+Farmers have been protesting in recent weeks over the prices they are paid, EU regulations, fuel prices and cheap food imports.
+
+They are also calling for calling for an end to the EU-Mercosur deal and other free trade agreements (FTAs).
+
+Jan Plagge, president of IFOAM (International Federation of Organic Agriculture Movements) Organics Europe said: “Organic farmers also suffer from low prices and unfair competition by less ambitious standards, despite delivering many benefits for the environment and society.
+
+“Farmers need fair prices that reflect their production costs, and this is even more true for farmers who take the risk of engaging in more sustainable farming practices such as organic farming.” 
+
+The IFOAM president said that there is also a “risk” of farmers “abandoning organic certification without better support from retailers and policymakers”.
+
+“Farmers who engage in the agroecological transition are not properly remunerated neither by the market nor by the CAP,” he added.
+
+Plagge warned that the concerns about unfair prices and competition shown during the protests should not be misdirected against health and nature protection.
+
+The Green Deal and the Farm to Fork strategy, Plagge explained, “are critical policies and cannot be blamed as the cause of farmers’ difficulties, since most legal proposals related to agriculture have been blocked, rejected or watered down, and have had zero impact on farmers so far”.
+
+“Nature protection is not directed against farmers, rather other actors in the food supply must share environmental responsibilities instead of burdening farmers,” Plagge said.
+
+He added that the prices paid to organic farmers have gone down in the last two years in several countries and are sometimes equal to prices paid to conventional farmers, while “retailers continue to sell organic products at a premium resulting in higher profit margins while organic farmers are suffering”.
+
+‘Unacceptable greenwashing’: Scottish farmed salmon should not be labelled organic, say charities
+Open letter calls for Soil Association certification to be removed from industry, amid concerns of negative environmental impac
+The British body that certifies food in the UK as organic has been accused of misleading consumers over its labelling of Scottish farmed salmon.
+
+Thirty charities, conservation and community organisations, including WildFish, the Pesticide Action Network and Blue Marine Foundation, say the negative environmental impacts of the industry in Scotland “run completely counter” to the principles of the Soil Association’s promotion of healthy, humane and sustainable food.
+
+In an open letter to the association, which plans to update its organic fish farming standards, the groups call for the removal of its certification of Scottish salmon and trout farms, as “unacceptable greenwashing of an unsustainable industry”.
+
+In December, the broadcaster and presenter Chris Packham called for a halt to the growth of salmon farms in Scotland, as official figures suggested farmed salmon mortality had hit record levels in 2023. Packham, the president of the Royal Society for the Prevention of Cruelty to Animals (RSPCA), said the industry was “catastrophic” for fish welfare and Scotland’s environment.
+
+Salmon farms certified as organic by the Soil Association are required to show how they will minimise their impact on the aquatic environment, and maintain lower population densities than those required by other standards, including the RSPCA standard.
+
+Rachel Mulrenan, WildFish’s Scotland director, said: “So-called ‘organic’ Scottish salmon is a misnomer. The fish are raised in the same way as all Scottish farmed salmon – in open-net cages, where all the waste from the farm flows straight into the surrounding lochs and sounds, including faeces and uneaten feed.”
+
+She said that salmon farms certified organic were permitted to use highly toxic chemicals, which could kill surrounding wildlife. They also used wild-caught fish to produce feed and for parasite control, with unknown environmental impacts, she claimed.
+
+Intensive salmon farming creates a breeding ground for parasites including sea lice and other diseases and can threaten wild salmon populations, if escapees breed with wild fish.
+
+A report published by WildFish last year, Responsibly Farmed?, said one Soil Association organic certified salmon farm had applied multiple treatments of the chemical pesticide deltamethrin, which is highly toxic to marine species.
+
+The groups said that the updated standards for fish farms proposed by the Soil Association in its consultation continued to permit toxic chemicals such as deltamethrin and did not address concerns that high mortality rates were “indicative of an unsustainable industry”.
+
+More than 160 chefs and restaurants, as well as 50 community groups, charities and NGOs have joined WildFish’s Off the table campaign to remove farmed salmon from their menus.
+
+Claire Mercer Nairne, the owner of supporting Perthshire restaurant The Meikleour Arms, said: “Many well-meaning restaurants serve farmed salmon because of reassuring organic certification. Organic for most people means better for the environment, but unfortunately in this instance that could not be further from the truth.”
+
+A Soil Association spokesperson said farms with the organic logo must follow “strict rules” to minimise environmental impact and ensure animal welfare, and must prove they take action when problems occur.
+
+“We recognise there is still much work to be done to further improve fish farming, and that is why we are working with the sector to drive improvements forward.”
+The spokesperson, who said the association certified 20 fish farms in the UK, said their rules were having a wider impact, as they were being adopted by the non-organic sector.
+
+The Soil Association was concerned about the impacts of chemical parasite treatments, such as deltamethrin, and its use as a medicine was “very strictly controlled”, said the spokesperson, who added that farms must demonstrate it was being used a last resort to protect the welfare of the fish, with minimal impact on the environment.
+
+Tavish Scott, the chief executive of Salmon Scotland, said: “Scotland’s salmon farmers consistently meet the highest international standards and third-party assurance – including organic certification – will continue to play an important part in ensuring Scottish salmon remains the best in the world. We won’t let that global success be put at risk from a handful of urban-based activist groups.”
+
+The organisation of European organic food processors and retailers (OPTA) rejects GMOs/NGTs, but sets out conditions for their possible adoption.
+
+At the beginning of September, a new player took a stand against the European Commission’s proposal to deregulate “new GMOs“, which it has renamed NGTs : Opta (Organic Processing and Trade Association), the European organisation that represents the interests of companies processing and trading organic products [1].
+
+OPTA claims that GMOs/NGTs are incompatible with the principles of organic farming and consumers’ perception of organic products. It considers that the authorisation of GMOs/NGTs threatens organic businesses in the European Union (EU) [2].
+
+The historic commitment of the “organic” sector to GMOs
+Organic farming is based on strong concepts, including the use of natural fertilisers and respect for ecosystems. It also imposes strict standards and organic certification, and refuses to use GMOs. As GMOs/NGTs (or “new GMOs“) are, like their predecessors, derived from genetic modification, organic farming’s defenders believe that they are not compatible with its foundations [3] [4].
+
+The seed industry takes a different view. It is even developing a discourse – and an associated novlanguage – praising the “agroecological” virtues of these “new GMO » [5]. In particular, it misleadingly puts forward the argument that GMOs/NGTs (Crispr/Cas9, TALEN,…) make it possible to produce organisms as nature would, but much more quickly than nature would. Another “agroecological” argument put forward by the industry is that these GMOs/NGTs will reduce chemical inputs and water consumption. We can legitimately question this type of promise, given that those – very similar – concerning transgenic GMOs have not been kept [6].
+
+This kind of semantic, even ideological, intrusion by agribusiness into the concept of agroecology is arrogant, to say the least. It is clearly aimed at admitting GMOs/NGTs into organic farming, in total disregard of the fundamental principles of this sector, such as the absence of chemical inputs and the priority given to biodiversity.
+
+To counter this industrial strategy, the European Union’s organic product processors and traders are calling for vigilance and action through their official representative, Opta.
+
+GMOs/NGTs, a risk for the organic supply chain
+In concrete terms, Opta is calling for the application of strict rules to ensure the traceability, labelling and protection of organic operators for all GMOs/NGTs. This would guarantee that organic products remain free from NGT products and that consumers have a clear view of the origin of products. She is also calling for rules to be put in place to ensure coexistence between different types of farming. For example, it is calling for the introduction of “a mechanism to ensure that GMO/NGT manufacturers bear the additional costs associated with prevention and monitoring of the organic supply chain“. Similarly, the association is calling for compensation for organic operators in the event of damage caused by the presence of GMO/NGT material. The proposal, it should be remembered, no longer provides for any rules on coexistence or compensation for damage in the event of contamination.
+
+The debate on the impact of GMOs/NGTs on organic farming is not yet over at EU level, but concerns remain within this still fragile sector, which currently occupies just 9.9% of cultivated land [7].
+Fraud is unquestionably, the biggest threat to organic
+In 2007, the owner of an organic soybean processing plant in California received a railcar of what she thought—and paid $100,000 for—was organic soybeans. But lab testing revealed the soybeans were 20% genetically modified. In 2017, an investigative report in the Washington Post detailed fraudulent shiploads of organic corn and soybeans from Turkey and Ukraine coming to the U.S. 
+Those are just two examples of an ongoing problem that threatens to undermine the organic industry and consumer confidence in organic food: fraud.
+
+The U.S. Department of Agriculture has responded with its Strengthening Organic Enforcement rule to crack down on fraud, but will it be enough?
+
+Fraudulent organic corn and soy are sold “every day”
+Fraud is “unquestionably, the biggest threat to organic,” says Lynn Clarkson, CEO of Clarkson Grain, a supplier of organic and non-GMO grains based in Illinois. “Every day, conventional corn and soy are sold with fraudulent organic certification.”
+
+“Organic has been a very appealing target for fraudsters,” says Gwendolyn Wyard, founding partner of Strengthening Organic Systems, LLC, a new advisory firm focused on preventing organic fraud. “We have the perfect recipe because we have demand exceeding supply, and, in many cases, a premium price.”
+
+With premium prices for organic commodities, criminals or even some farmers try to cash in by selling grains or produce that are grown using conventional methods—with pesticides and even GMOs—as organic in violation of the National Organic Program rules.
+
+“The temptation to cheat is enormous,” Clarkson says. “As long as there’s a premium for organic, the temptation is going be right out there in front.”
+One of the underlying factors driving fraud is the greater demand for organic corn and soybeans than the U.S. supply of such grains, which are used in organic poultry production. As a result, the U.S. relies heavily on imports of organic grains. About 26% of organic corn and 76% of organic soybeans used for poultry feed in the U.S. come from abroad, according to Mercaris, an organic market data firm.
+
+Those grains are coming from the Black Sea region including Turkey and Russia, as well as Argentina and Africa.
+
+Countries in the Black Sea region are suspected of shipping fraudulent supplies of those grains, according to John Bobbe, an organic farmer in Wisconsin and former director of OFARM, which oversees organic farmer cooperatives in the Midwest.
+
+“I tracked 13 ships over the years that were suspected to have fraudulent shipments. If they came from Turkey or the Black Sea region, they were suspect,” Bobbe says.
+
+Organic imports from India and Argentina are also suspect, Clarkson says. India has had a reputation for fraudulent shipments of organic cotton. In early 2021, the U.S. Department of Agriculture’s National Organic Program (NOP) ended its Organic Recognition Agreement with India due to concerns over the organic integrity of Indian products coming to the United States.
+
+“Some of the issues that we ran into with India is that the government oversight control systems there were weak,” Wyard says.
+
+Clarkson cites a recent example of potential fraud. A soybean processor in Canada is importing large quantities of organic soybeans from Ethiopia and India. The processor then ships the processed soybean oil and meal to poultry processors in the eastern United States with a label saying it is a product of Canada.
+
+“We’re pretty sure that it involves a lot of fraudulent material,” he says.
+
+Clarkson says it’s easy for criminals to engage in organic fraud. “As long as they have a piece of paper that says organic on it, nobody’s going to stop them,” he says.
+
+“We have a certification system that’s very good, but the fraudsters succeed because they find the gaps,” Wyard says.
+
+Fraud concerns with organic produce and peanuts
+There have also been domestic organic fraud cases. In 2019, Missouri farmer Randy Constant was convicted and sentenced to 10 years in prison for selling $250 million of fraudulent organic grains. In 2020, South Dakota farmer Kent Anderson was indicted for selling $71 million in fraudulent organic grain and seeds. Earlier this year, in separate cases, a farmer in Iowa and another in Minnesota pleaded guilty to selling conventionally grown crops as organic in multi-million-dollar fraud schemes.
+
+“Right here in our own backyard, the Midwest, we have some pretty significant cases of fraud,” Wyard says.
+
+While fraud in the organic grain market has received the most attention, there is also a likelihood of fraud in other organic commodities such as produce and nuts.
+
+“We’ve been very focused on grain because that’s where we’ve seen the fraud occur, but I think produce is another area that it occurs,” Wyard says. “The word out there is that it’s an issue.”
+
+Produce is a very lucrative category within the organic industry; consumers buy more organic produce than any other organic food item.
+
+Peanuts may also be a problem. An organic peanut farmer in Georgia, who wished to remain anonymous, said: “I am worried about fraud in the organic peanut market with conventionally grown peanuts leaving the U.S. and coming back in from Mexico as organic. I don’t have specifics but have heard that the practice goes on. We have enough problems keeping them grown organically here to have more production coming in to compete with.”
+
+As the organic peanut farmer says, he and other U.S. organic farmers suffer as cheap fraudulent imports undercut their ability to earn a fair price for their crops.
+
+“Any organic fraud really hurts the majority of domestic organic farmers. That’s a real impact on farmers who are following all the rules and taking a lot of care in managing their farm organically,” says Kate Mendenhall, executive director of the Organic Farmers Association.
+
+Strengthening Organic Enforcement Act
+To address the fraud problem, the U.S. Department of Agriculture published the Strengthening Organic Enforcement (SOE) rule earlier this year. SOE aims to support strong organic control systems, improve farm to market traceability, increase import oversight authority, and provide robust enforcement of the organic regulations.
+
+Some requirements of SOE include certification of traders and producer groups, NOP Import Certificates for all organic imports, and increasing authority for more rigorous on-site inspections of certified operations, among others.
+
+“I do think that the Strengthening Organic Enforcement Act or rule will help,” Mendenhall says. “They’ve closed a lot of gaps that were creating some loopholes and lack of audit trail.”
+
+“There are many requirements, many parts of the rule where the total sum of all the parts is going to reduce fraud significantly,” Wyard says.
+
+Requiring traders and brokers to be certified organic is an important step to close loopholes, according to Wyard. She adds that “literally thousands of operations” will have to be certified by March 19, 2024 when the SOE rule takes effect.
+
+SOE will require electronic import certificates for all organic products and ingredients coming into the U.S. In addition, U.S. Customs and Boarder Protection (CBP) expanded its list of Harmonized Tariff Schedule codes to include 84 organic commodities. Such codes are used by CBP to track the volume, value, and origin of products imported into the U.S.
+
+“The requirements to get across the border and everything that takes place with verification through customs and border protection; that’s going to be much stricter,” Wyard says.
+
+SOE also requires organic inspectors and certifiers to conduct traceability and mass balance audits. The latter involves verifying that a quantity of, say, organic soybeans coming into the U.S. matches the amount of organic soybeans grown and harvested in the country of origin. If the import quantity is greater than the production, then fraud is suspected.
+
+While she is hopeful about SOE, Mendenhall believes more will need to be done to stop fraud.
+
+“I’m confident there are improvements in the Strengthening Organic Enforcement rule that will help deter fraud. However, we can’t stop with that rule. We have to keep learning and modernizing our systems.”
+
+Need to increase domestic organic production
+The best solution to stopping fraudulent organic imports is to increase U.S. domestic production of organic crops.
+
+“I think increasing domestic grain production is key,” Mendenhall says. “We can’t welcome them (new organic farmers) into a market if we’re not cutting out import or domestic fraud. Domestic organic production is key, but we also must take out the supply that shouldn’t be there in the first place.”
+
+Clarkson sees a bleak future for organics if the fraud problem is not stopped.
+
+“I want to be hopeful for organic but if the consumer reaches the conclusion that 50% to 60% of his organic product is not really organic, then the whole market disappears.”
+
+Stopping fraud will require an all-hands-on-deck effort in the organic industry. “We really have to be working together as an organic community,” Mendenhall says.
+
+New USDA Regulations Are Sparking Chaos for Small Organic Wine Importers
+
+Athena Bochanis is the owner and founder of Palinkerie, a small, New York-based import company that showcases boutique winemakers from Hungary in the U.S. Earlier this month, she took to Instagram to seek information on upcoming changes to the U.S. Department of Agriculture’s (USDA) regulations, after learning that importers such as her would soon need to obtain organic certification. She struggled to find instructions from official regulating bodies, so she posted a story inquiring if anyone else was running into the same roadblocks. The plea was echoed by frantic responses from several kindred wine professionals, all unsure of what would happen when the March 19 deadline hit, or how to prepare for it.
+
+In January 2023, the USDA announced that its National Organic Program (NOP) had approved the Strengthening Organic Enforcement (SOE) final rule, a set of directives that were officially implemented this week on March 19. The biggest update to organic regulations since the original Organic Foods Production Act (OFPA) of 1990, the SOE rule aims to protect the integrity of the organic supply chain and build trust in labeling by improving traceability and increasing enforcement. In other words, every business that handles organic goods now needs to be certified as organic, rather than just producers.
+
+While bolstering consumer confidence in organic products is all well and good, many businesses have been left in the dark regarding what’s required of them. With increased red tape around importing organic wine and little clarity around the new certification laws, small wine importers feel lost and ignored — and it’s already impacting their businesses.
+So what does the SOE rule mean for organic wine importers? How are companies coping with a myriad of regulation changes? And how will this impact the future of organic wine labeling?
+
+Cracking Down on Fraud
+Since the introduction of the OFPA, there’s been a dramatic rise in consumer interest in certified organic products. According to the Organic Trade Association, total U.S. sales of organic goods reached more than $60 billion in 2022. To keep up with demand, the associated businesses that produce, market, and sell organic products have also expanded.
+
+The rapid growth of organic agriculture has undoubtedly left some holes in the system, and the USDA points to several accounts of recent fraud as an impetus for change. In 2017, an investigation found that three shipments of imported corn and soybeans, each weighing from 36 to 46 million pounds, were falsely labeled as organic. In 2019, four people were sentenced for their involvement in an organic fraud ring in Iowa for selling at least $142 million of fraudulently labeled grains. The USDA set out to introduce new controls that would hinder such large-scale schemes, which ultimately became the SOE ruling.
+The regulations, which can be found across several different pages on the USDA website, or in a daunting 80-page document, are difficult to navigate, providing convoluted explanations of the amendments without any instruction on how to proceed. Even wine import companies, which  are at least somewhat familiar with official forms and red tape, are clueless about how to interpret the document.
+From our own limited understanding, it appears that two major changes apply to the import of organic goods. All organic products entering the U.S. will now require electronic NOP Import Certificates, adding another step of (digital) paperwork for all parties involved in the production, transportation, and sale of organic products — all in the name of traceability. (This includes overseas producers already certified in their own countries.) Organic certification is now also required for all handling operations that sell, process, or package organic agricultural products, including brokers, traders, and importers, though the ruling states that there will be limited exceptions.
+Making Sense of the New Rules
+The realization that, without certification, importers will no longer be able to tout organic credentials on their products’ labels in the U.S. has been the toughest for small businesses to swallow.
+Importers told VinePair they never received directions from the USDA on how to comply with the changes. The lack of clear communication only raised other questions: Since they work in offices and warehouses — and not with soil and seeds — how will the USDA define what “organic” means for them?
+When I first spoke with Charlotte Alsaadi on March 12, the marketing associate at the New Jersey-based Vine Street Imports and her team were convinced that the new certification rule wouldn’t apply to importers. At that time, Vine Street was prepared to comply with the additional NOP paperwork.
+“We found out about it with a couple of panicked emails from producers.”
+
+On March 15, however, Alsaadi contacted me again. “I heard today that the importer’s facility has to be certified,” she said, adding that, in addition to a first certification inspection, the regulatory bodies could conduct random audits of the importer’s space to enforce compliance without prior warning. With this new information, Vine Street has decided to drop the organic terminology from all its imported wines’ labels this year.
+This same confusion prompted Bochanis of Palinkerie to reach out to her fellow industry members on social media. As a small operation without a formal office, she wondered exactly what the regulators would come to inspect, who would be responsible for issuing the certification — generally, third-party companies and not the USDA conduct assessments — and what it would cost.
+Reaching out to the USDA proved unhelpful for Bochanis. Similarly, when I asked the USDA to clarify some of the points, the answers received prompted more confusion. In response to questions about the certification process and cost, a spokesperson sent a document dated June 2012, with outdated information.
+“At the end of January we were running around like chickens with our heads cut off,” says Ashley Cohen of New York-based natural wine importer Jenny & François Selections. Cohen says the team rushed several shipments to reach the U.S. ahead of the deadline to buy themselves more time.
+“It’s the government’s responsibility to make sure those involved are attuned to any changes. You can’t just expect the market to stop.”
+Beyond the confusing nature of the regulations, many importers found out about the impending changes in a roundabout way. Several reported hearing the news from colleagues, logistics companies, or wineries rather than from the USDA.
+“We found out about it with a couple of panicked emails from producers,” Alsaadi says, one of whom was a winemaker new to the Vine Street portfolio, Paso a Paso, in Mendoza, Argentina. Although the winery worked to achieve organic certification in Argentina, when the wines make their debut in the U.S. this year, they can’t feature this distinction on their labels.
+The overall confusion could stem from the fact that wine professionals are used to the increased level of communication they experience when dealing with the TTB. Sean O’Leary, president of O’Leary Law and Policy Group, LLC, who specializes in liquor law, has been following the TTB’s changes to nutrition labels. He says that the TTB hosted several seminars and announcements on that unrelated issue, taking feedback from industry professionals on how to proceed and providing extreme clarity in the process.
+
+“If people are going to stop doing business as usual because of a lack of clarity from the government, that’s an issue,” he says of the USDA organic saga. “It’s the government’s responsibility to make sure those involved are attuned to any changes. You can’t just expect the market to stop.”
+
+Adjusting to a New Reality
+Now that the deadline has passed, industry professionals predict major disruptions in the wake of the new regulations.
+
+“The USDA estimated 4,000 to 5,000 companies would need new certification,” Nate Ensrud, vice president of U.S. technical services, certification, and food safety solutions for FoodChain ID, a tech company that consults with food-related regulations, told Food Business News. “Many organizations think they are exempt when they are not.” Ensrud went on to mention that over the past three months, the net change in certified organic operations in the U.S. was essentially zero. “Based on the USDA NOP data, I believe non-compliance is going to happen and be disruptive.”
+
+“The main delay we’re coming into is getting the small producers to do more admin work and make sure they’re on the organic integrity database.”
+
+For importers like Vine Street, time has already run out to meet the requirements for this year’s imports. But even if importers gain a better understanding of the rules over time, the increased enforcement might deter businesses from pursuing organic labels in the future at all. “It’s unrealistic and risky,” Alsaadi says. “What if someone comes and does an audit unannounced then we need to pay a fine or dump the products? It’s just too risky for our business.”
+
+Jenny & François plans to continue importing organic wine, and has spent much of the past three months trying to get its ducks in a row, but its certification remains pending. Cohen mentioned that beyond the certification itself, she worries about the additional NOP paperwork for winemakers. “Eighty percent of our book is small producers,” she says. “The main delay we’re coming into is getting the small producers to do more admin work and make sure they’re on the organic integrity database.”
+
+Why does this all matter? After all, these producers are still practicing organic farming, especially to meet the standards of their own countries and other export markets. And the same wines will continue to enter the U.S., just without organic labeling.
+
+But importers and wholesalers such as Jenny & François have built their brands on importing sustainably farmed and organic-certified wines. This reputation became a calling card, and in turn allowed them to place products in national chains, exposing new markets to the category. And now consumers across the country are accustomed to seeking out organic labels.
+
+“When it’s outside of the New York market, the labeling is more important for sharing that information,” Cohen says. “And it’s key to getting placements at places like Whole Foods. That’s a big reason we have to figure this out.”
+Durango producer to visit U.S. Capitol in effort to uphold organic farming practices
+Dixon says big-name producers are not being held to USDA’s standard of organic
+Durango organic farmer Linley Dixon is slated to meet with representatives in the U.S. House and Senate in early March to discuss eco-friendly practices in organic farming.
+This year will mark the reauthorization of the Farm Bill, a piece of agricultural legislation with significant effects on food and farming systems that is amended every five years.
+Dixon said she will focus on making sure the U.S. Department of Agriculture organic farming regulations are climate-smart.
+“We’re just going to Washington to ensure that organic crops are grown in healthy soils and organic livestock is raised on healthy pastures, and to ensure that the law is being upheld,” she said.
+Dixon and her family are owners of Adobe House Farm, a 3-acre vegetable farm that sells to local restaurants, the SWFF Local Distribution Cooperative, James Ranch and Durango Farmers Market. She also has a master’s degree in plant and soil science.
+Her grievance with the USDA’s National Organic Program is that the agency is certifying Soilless Hydroponic Container Operations as organic and violating the Organic Foods Production Act.
+
+Dixon said no standards have been established for SHCOs.
+
+“The way that we (organic farmers) farm is to recycle through composting local waste,” she said. “And the way a hydroponic farm produces food is to simply fertilize the crop. And those fertilizers have a heavy, heavy climate impact. So, instead of sequestering carbon in the soil, they’re using a lot of fossil fuels to create fertilizers.”
+
+Dixon and members of the Organic Farmers Association are trying to ensure that organic integrity is being upheld.
+
+She contends that by allowing organic certification of soil-based and hydroponic production of the same crops and products, the USDA is violating the second purpose of the Organic Foods Protection Act, because those products do not meet a consistent standard.
+
+The section of the Organic Foods Protection Act pertaining to soil fertility says that an organic plan shall contain provisions designed to foster soil fertility, primarily through the management of the organic content of the soil through proper tillage, crop rotation and manuring.
+
+By allowing the organic certification of Soilless Hydroponic Container Operations, Dixon said the USDA is violating the definition of “organic plan” because such operations do not comply with requirements for an organic plan found in OFPA section 6513(b)(1). Such SCHO operations do not practice crop rotations and other practices required in the act, she said.
+
+Driscoll’s, a California-based seller of berries, which is commonly sold in major grocery stores, is a consistent contributor to the problem, Dixon said.
+
+“They’re a monopoly; they’ve been able to change what is allowed to be certified organic to match their practices,” she said. “So that’s how those two issues are connected. It’s really an industrial way of production.”
+
+She added that Driscoll’s makes up about 70% of the organic berry market. With more and more SCHOs becoming certified as organic producers, she fears it will run many small organic growers out of business.
+Minnesota farmer gets prison time for organic grain fraud scheme
+Federal judge delivers three-year prison sentence to southwestern Minnesota man who undermined the "trust" of U.S. organic grain market. 
+A federal judge in St. Paul sentenced a 66-year-old Minnesota farmer to three years in prison for falsely selling rail cars full of conventional grain as organic product.
+
+"People looking at defrauding the organic sector in this way will have heard about [this case]," U.S. District Judge Kate Menendez said at a federal courthouse Monday morning.
+
+James Clayton Wolf, a corn and soybean farmer in Jeffers, Minn., pleaded guilty in May to a scheme to defraud organic grain customers. While Wolf lost his organic certification in 2020, prosecutors said his scheme to sell genetically modified grain under false representation began years earlier.
+
+Menendez noted that she was even an organic food consumer herself, saying the victims of organic grain fraud — though they couldn't individually be identified in this case — was anyone who participated in the specialized food system that requires different growing practices than traditional agriculture, including, generally, the absence of synthetic fertilizers.
+
+The government had sought a five-year prison sentence for Wolf.
+
+Prosecutors said they only uncovered Wolf's fraud — which began back in 2014 — because of a consolidation of the company from whom Wolf purchased conventional grain.
+
+According to Assistant U.S. Attorney Robert Lewis, Wolf purchased genetically modified grain on rail cars and sold to an organic broker in Pennsylvania. Wolf represented the corn and soybeans as certified organic, which fetches a far more lucrative price than traditional grain.
+
+Those organic grains, which are certified under a U.S. Department of Agriculture program, are often sold to livestock producers to feed cattle.
+
+Prosecutors noted that consumers in the $11 billion organic industry seek environmental and health benefits in choosing organic food and the system is based on trust.
+
+"Honesty has to be the standard," Lewis said.
+
+Earlier Monday morning, Judge Menendez also sentenced Wolf's godson and nephew — Adam Clifford Olson — to two years of supervised probation and 100 hours of community service for signing a crop insurance document representing falsely that he understood Wolf's fields to be organically certified.
+
+On Monday, attorneys said Olson was in the process of taking over his uncle's land when he was visited in October 2021 by federal agents who informed him that Wolf had lost his license for organic certification a year earlier.
+
+"Adam trusted someone to tell the truth," Olson's attorney, Steven Wolter, told the court.
+
+In his own brief remarks, Olson expressed remorse over his misrepresentation and the subsequent legal battle "because of the paper that I signed."
+
+"I'm really sorry that it's come to this," he concluded.
+
+Olson has already signed a check for nearly $70,000 in restitution to the USDA for the crop insurance, according to his attorney.
+
+Wolf, meanwhile, will need to report to a federal prison by the middle of February. In brief remarks before the court, punctuated by tears, the farmer recounted his sorrow for his fraud and love of farming.
+
+"I let the temptations to gain additional money overtake my good judgment," Wolf said.
+
+Judge Menendez also finalized a forfeiture list encompassing many pieces of land, tractors and sports cars he used tainted funds to purchase.
+
+Wolf's attorney, Paul Engh, had sought leniency, noting his client's failing health, but Judge Menendez said she believed Wolf would return from prison and resume farming.
+
