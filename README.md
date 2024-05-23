@@ -1,4 +1,4 @@
-# ICPU-Final-Project: Linguistic Analyisis Code
+# Linguistic Analyisis Code
 
 This is a reproducable tool suitable for conducting linguistic analysis on a large text file. In the process of developing this tool it was catered specifically to a study of the language being used in discussion of the organic food sector. This repository contains the raw data used for this research, as well as the code used to analyse three different data sets of a respective 'positive' 'negative' or 'neutral' sentiment.
 
