@@ -4,7 +4,8 @@ This is a reproducable tool suitable for conducting linguistic analysis on a lar
 
 Below is a flow chart to visualise the key processes involved in this tool, followed by a general step-by-step breakdown of how each of these steps is achieved within the code.
 
-![github diagram drawio](https://github.com/elviehatescoding/ICPU-Final-Project/assets/169135173/f98ae1ab-6922-4774-83a9-dac7bb9a9bef)
+![githubdiagram drawio](https://github.com/elviehatescoding/ICPU-Final-Project/assets/169135173/f5e43612-94ed-4dc6-bf4e-ba432799c7e6)
+
 
 ## 1. Import Appropriate Tools
 
@@ -26,11 +27,14 @@ f = open(filename,encoding = "utf-8")
 data = f.read()
 ```
 ## 3. Prepare Data
+To prepare the data for quantitative analysis, the following factors are considered:
 ### a. Case
+Transforming the data to lowercase creates consistency.
 ```
 datalower = data.lower()
 ```
 ### b. Punctuation
+Removing punctuation further cleans up the data.
 ```
 # Function to remove punctuation
 def remove_punctuation(text):
@@ -38,10 +42,12 @@ def remove_punctuation(text):
 text_no_punctuation = remove_punctuation(datalower)
 ```
 ### c. Split Data
+This tells python to identify each word in the text file as an individual data unit.
 ```
 words = text_no_punctuation.split()
 ```
 ### d. Stop Words
+This prevents the most common and basic words in the language from dominating the word count results.
 ```
 #defining stop word and punctuation function
 
@@ -67,12 +73,13 @@ stop_words = set([
 words_no_stop_words = remove_stop_words(words)
 ```
 ### e. Lemmatisation
+Lemmatisation is a data alteration process essential for many Natural Language Processing tasks (Müller et al., 2015). Word forms are reduced to their “lemmata”; simple form. It is important to accurately represent the true prevalance of each key theme or word, rather than have it distributed across many similar forms of the same word.
 ```
 lemmatizer = WordNetLemmatizer()
 lemmatized_words = [lemmatizer.lemmatize(word) for word in words_no_stop_words]
 ```
 #### i. Manual Revision
-why did we do this
+This lemmatisation was further extended to specific cases that were relevant to this subject matter but not accounted for in the default NLTK lemmatisation tool.
 ```
 def lemmatize_word(word):
     lemmatizer = WordNetLemmatizer()
@@ -89,17 +96,20 @@ word_list = lemmatized_words
 modified_list = replace_farm_words(word_list)
 ```
 ## 4. Word Counter
+This creates a frequency count of each word in the data set.
 ```
 words_count = Counter()
 for word in modified_list:
     words_count.update({word,1})
 ```
 ## 5. Top 50
+This organises the word count to display the top 51 most commonly used words. The reason 51 is used rather than 50, is because the top output will display as the number '1' and its frequency indicates the total number of words in the cleaned and prepared data set.
 ```
 most_common_words = words_count.most_common(51)
 ```
-reason it is 51 and not 50
+
 ## 6. Plot
+Then, to create a meaningful and legible graph, data was plotted from the 4th most frequently used word onwards, so as not to include ‘organic’, ‘farm’ and ‘food’ which dominated significantly in the positive, negative and neutral data sets.
 
 ```
 x, y = zip(*most_common_words)
@@ -110,9 +120,4 @@ plt.ylabel('Number of Usages')
 plt.title('Most Common Words Used In Positive Media on Organic Produce')
 plt.show()
 ```
-
-involved setting up code for which a text file was then fed in, the case lowered, stop words and punctuation removed, and the words lemmatised. Lemmatisation is a data alteration process essential for many Natural Language Processing tasks (Müller et al., 2015). Word forms are reduced to their “lemmata”; simple form. For example, lemmatisation would cause the following transformations:
-
-A lemmatization tool available in the NLTK python toolbox was implemented, and those missed by the tool were sorted through manually. 
-The text file was then split into words, and each word identified as an individual data unit. A frequency count for each word was then produced, and the most common 50 words displayed. From there, a graph was plotted to represent this data. To create a meaningful and legible graph, data was plotted from the 4th most frequently used word onwards, so as not to include ‘organic’, ‘farm’ and ‘food’ which dominated significantly in the positive, negative and neutral data sets.
 
