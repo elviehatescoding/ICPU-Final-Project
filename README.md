@@ -6,6 +6,18 @@ Below is a flow chart to visualise the key processes involved in this tool, foll
 
 ![github diagram drawio](https://github.com/elviehatescoding/ICPU-Final-Project/assets/169135173/f98ae1ab-6922-4774-83a9-dac7bb9a9bef)
 
+## 1. Import Appropriate Tools
+## 2. Read in Text File
+## 3. Prepare Data
+### a. Case
+### b. Stop Words
+### c. Punctuation
+### d. Lemmatisation
+## 4. Split Data
+## 5. Word Counter
+## 6. Top 53
+## 7. Plot
+
 involved setting up code for which a text file was then fed in, the case lowered, stop words and punctuation removed, and the words lemmatised. Lemmatisation is a data alteration process essential for many Natural Language Processing tasks (Müller et al., 2015). Word forms are reduced to their “lemmata”; simple form. For example, lemmatisation would cause the following transformations:
 
 A lemmatization tool available in the NLTK python toolbox was implemented, and those missed by the tool were sorted through manually. 
