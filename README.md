@@ -4,7 +4,7 @@ This is a reproducable tool suitable for conducting linguistic analysis on a lar
 
 Below is a flow chart to visualise the key processes involved in this tool, followed by a general step-by-step breakdown of how each of these steps is achieved within the code.
 
-![githubdiagram drawio](https://github.com/elviehatescoding/ICPU-Final-Project/assets/169135173/f5e43612-94ed-4dc6-bf4e-ba432799c7e6)
+![Untitled Diagram for GITHUB drawio](https://github.com/elviehatescoding/ICPU-Final-Project/assets/169135173/e8f3c9c2-f560-4286-a5d7-7733693829eb)
 
 
 ## 1. Import Appropriate Tools
