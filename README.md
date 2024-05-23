@@ -73,7 +73,7 @@ stop_words = set([
 words_no_stop_words = remove_stop_words(words)
 ```
 ### e. Lemmatisation
-Lemmatisation is a data alteration process essential for many Natural Language Processing tasks (Müller et al., 2015). Word forms are reduced to their “lemmata”; simple form. It is important to accurately represent the true prevalance of each key theme or word, rather than have it distributed across many similar forms of the same word.
+Lemmatisation is a data alteration process essential for many Natural Language Processing tasks. Word forms are reduced to their “lemmata”; simple form. It is important to accurately represent the true prevalance of each key theme or word, rather than have it distributed across many similar forms of the same word.
 ```
 lemmatizer = WordNetLemmatizer()
 lemmatized_words = [lemmatizer.lemmatize(word) for word in words_no_stop_words]
